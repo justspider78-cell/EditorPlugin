@@ -1,0 +1,6 @@
+name: EditorPlugin
+version: 1.0.0
+main: com.editorsmp.EditorPlugin
+api-version: '1.21'
+description: Eight magical Stones for Editor SMP
+author: EditorSMP
